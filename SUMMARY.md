@@ -10,6 +10,7 @@
         * [Link 3.1](gitbook/untitled/untitled-2/link2/link3.md)
         * Link 3.2
     * [Another topic](gitbook/untitled/another-topic.md)
+    * [Publish \(or update\)](gitbook/untitled/publish-or-update.md)
 * Git
   * Branch and merge
 
