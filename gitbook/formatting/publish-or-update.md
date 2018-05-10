@@ -15,3 +15,5 @@ To edit on a separate branch, use:
 * Go to github to handle the pull request.
 * Then move off the branch if desired.
 
+![](../../.gitbook/assets/branch.png)
+
