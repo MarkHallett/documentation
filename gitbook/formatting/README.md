@@ -1,7 +1,3 @@
----
-description: Examples of formating options
----
-
 # Formatting
 
 For examples of formating see below. 

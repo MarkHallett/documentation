@@ -56,7 +56,7 @@ This is a hint
 
 ## Page Link
 
-{% page-ref page="untitled-1.md" %}
+{% page-ref page="insert-options.md" %}
 
 ## Tabs
 
@@ -82,5 +82,5 @@ Start
 
 ## Page Link
 
-{% page-ref page="untitled-1.md" %}
+{% page-ref page="insert-options.md" %}
 
