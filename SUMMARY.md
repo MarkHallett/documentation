@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Examples of how to use GitBook](README.md)
+* [Examples of how to use Git and GitBook](README.md)
 * GitBook
   * [Chapters](gitbook/chapters.md)
   * [Formatting](gitbook/formatting/README.md)
