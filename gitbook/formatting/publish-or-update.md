@@ -13,17 +13,5 @@ To edit on a separate branch, use:
 * `git checkout -b <name of new branch>` or `git checkout <name of branch>`
 * Then the 3 steps above.
 * Go to github to handle the pull request.
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Then move off the branch if desired.
 
