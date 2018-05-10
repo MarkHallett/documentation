@@ -8,3 +8,22 @@ Edits on the gitbook are inserted directly into the master branch. Edits can be 
 * `git commit -m <update message>`
 * `git push`
 
+To edit on a separate branch, use:
+
+* `git checkout -b <name of new branch>` or `git checkout <name of branch>`
+* Then the 3 steps above.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
