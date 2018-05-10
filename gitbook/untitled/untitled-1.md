@@ -1,4 +1,8 @@
-# Inserts
+# Insert options
+
+To add any of the following inserts, put in edit mode then press `mac /`, or the + circle on the left.
+
+
 
 ## Lists
 
@@ -31,7 +35,7 @@ print x
 
 
 
-![Skiing](.gitbook/assets/les2alpes.jpg)
+![Skiing](../../.gitbook/assets/les2alpes.jpg)
 
 ## Video
 
@@ -39,10 +43,10 @@ print x
 
 ## Table
 
-|  |  |  |  |
+| a1 | b1 | c1 | etc |
 | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
+| a2 | click on table | to add  | or remove |
+| a3 | columns or rows |  |  |
 
 ## Hint
 
